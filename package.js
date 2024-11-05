@@ -1,19 +1,19 @@
 Package.describe({
-  name: 'vuejs:blaze-integration',
-  version: '0.3.2',
+  name: 'mrspark:blaze-integration',
+  version: '1.0.0',
   summary: "Vue integration with Meteor's Blaze rendering engine."
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.8.1');
+  api.versionsFrom(['1.8.1', '3.0.4']);
 
   api.use([
     'ecmascript',
-    'blaze@2.5.0',
-    'templating@1.4.1',
+    'blaze@3.0.0',
+    'templating@1.4.4',
     'ejson',
     'underscore',
-    'peerlibrary:data-lookup@0.3.0'
+    'mrspark:data-lookup@1.0.0'
   ]);
 
   api.use([
