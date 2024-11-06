@@ -25,7 +25,7 @@ modern-browsers@0.1.11
 modules@0.20.2
 modules-runtime@0.13.2
 mongo-id@1.0.9
-mrspark:blaze-integration@1.0.0
+mrspark:blaze-integration@1.0.1
 mrspark:computed-field@1.0.0
 mrspark:data-lookup@1.0.0
 observe-sequence@2.0.0

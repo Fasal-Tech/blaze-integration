@@ -1,6 +1,6 @@
 Package.describe({
   name: 'mrspark:blaze-integration',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: "Vue integration with Meteor's Blaze rendering engine."
 });
 
