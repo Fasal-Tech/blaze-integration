@@ -1,7 +1,7 @@
 import {_} from 'meteor/underscore';
 import {EJSON} from 'meteor/ejson';
 
-import {DataLookup} from 'meteor/peerlibrary:data-lookup';
+import {DataLookup} from 'meteor/mrspark:data-lookup';
 
 import Vue from 'vue';
 
